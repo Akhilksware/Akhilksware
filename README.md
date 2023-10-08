@@ -5,6 +5,6 @@
 - 📫 You can connect with me by dropping a mail at fromakhilks@gmail.com
 
 <!---
-Akhilksware/Akhilksware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AkhilKS/AkhilKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
